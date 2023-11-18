@@ -1,0 +1,29 @@
+1). Framework adalah sebuah kerangka kerja yang digunakan untuk mengembangkan website. Framework ini diciptakan untuk membantu web developer dalam menulis baris kode. Dengan menggunakan framework penulisan kode akan jauh lebih mudah, cepat, dan terstruktur rapi,framework dalam pengembangan aplikasi mirip dengan rencana dasar yang di gunakan untuk membangun rumah. Ini tidak hanya memberi tahu Anda bagaimana cara menyusun dinding, lantai, dan atap, tetapi juga menyediakan pedoman tentang bahan yang akan Anda butuhkan dan cara terbaik untuk menyatukannya.
+
+   1.Struktur Organisasi: Menentukan bagaimana aplikasi akan diatur, dari tata letak file hingga aliran kerja.
+
+   2.Perpustakaan dan Alat: Menyediakan fungsi-fungsi siap pakai untuk tugas umum seperti interaksi dengan basis data,manajemen sesi, keamanan, dll.
+
+   3.Kode Pendukung: Banyak framework menyediakan kode pendukung atau template yang dapat digunakan sebagai titik awal untuk pengembangan aplikasi.
+
+   4.Standar dan Pedoman: Framework sering kali mengikuti standar dan pedoman terbaik dalam pengembangan aplikasi, yang membantu menghasilkan kode yang mudah dipelajari, dipelihara, dan dijalankan oleh orang lain.
+
+
+2). 1. program pembuatan web/aplikasi untuk koperasi simpan pinjam smkn 1 rawamerta
+    
+    2.  1.viola (programer)
+        2.fatih (database,design web)
+        3.andhika (laporan,timeline)
+
+    3.permaslahan yang di dapat :
+       1.pembayaran : akan menggunakan proses registrasi data diri dan dalam aplikasi akan mengeluarkan nomor virtual account, di sarankan untuk menggunakan virtual account untuk keamanan keuangan koperasi secara menyeluruh
+     
+       2.telat bayar : akan ada peringatan secara berkala, baik itu dalam progran, whats app, atau pun secara langsung
+
+       3.macet : akan ada peringatan secara berturut turut sesuai dalam peraturan, dan akan ada peringatan keras dalam account koperasi
+   
+       4.peminjaman/pengambilan : member harus registrasi dalam aplikasi atau web untuk pinjaman atau pengambilan, dan hasil registrasi harus di kirim kan ke dalam web/aplikasi dalam bentuk file, dan setelah proses pengiriman registrasi selesai uang pinjaman/pengambilan akan langsung di transfer ke dalam nomor rekening member yang telah registrasi
+
+       5.tiba-tiba berhenti : uang akan hangus dan tidak bisa di kembalikan, lalu account member yang sudah di buat akan terblokir secara otomatis
+.
+
